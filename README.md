@@ -15,3 +15,10 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 
 ## Contenido
 
+
+## Material adicional
+
+
+* [Cómo instalar el entorno de desarrollo Python Anaconda](https://github.com/marcoteran/machinelearning/raw/master/aditionalmaterial/documentation/instalarPython_Anaconda.pdf)
+	* [Anaconda installation documentation](https://docs.anaconda.com/anaconda/install/windows/)
+	* [How to Setup Your Python Environment for Machine Learning with Anaconda](https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/)

@@ -20,17 +20,23 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 		* **video** [The Wonderful and Terrifying Implications of Computers That Can Learn](https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn), Jeremy Howard, TED
 		* **[Russell10]** Chap 1 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter01.pdf)
 
-### Certificados
+### Certificados Kaggle
+Entrega de certificados [Kaggle](https://www.kaggle.com/learn/)
 1. **Primer corte**
-	* MATLAB Onramp
-	* Simulink Onramp
+	* Python
+	* Pandas
+	* Data visualization
 2. **Segundo corte**
-	* MATLAB Fundamentals
-	* MATLAB Programming Techniques
+	* Intro to Machine Leraning
+	* Feature Engineering
+	* Data cleaning
 3. **Tercer corte**
-	* Signal Processing Onramp
-	* Image Processing with MATLAB
-
+	* Intermediate Machine Leraning
+	* Intro to Deep Learning
+	* *Opcional*
+		* Computer Vision
+		* Natural Language Processing
+		* Intro to Game AI and Reinforment Learning
 
 ## Material adicional
 

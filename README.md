@@ -20,14 +20,18 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 		* **video** [The Wonderful and Terrifying Implications of Computers That Can Learn](https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn), Jeremy Howard, TED
 		* **[Russell10]** Chap 1 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter01.pdf)
 
+2. **Agentes inteligentes**
+	* Descargar presentación [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/02_artificialintelligence_intelligentagents.pdf)
+		* **[Russell10]** Chap 2 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter02.pdf)
+		* **[Coloma20]** Inteligencia artificial, sistemas inteligentes, agentes inteligentes [(PDF)](https://github.com/marcoteran/machinelearning/raw/master/aditionalmaterial/documentation/InteligenciaArtificialSistemasInteligentesAgentes.pdf)
 
 ## Talleres y tareas
 
-* Taller: **Introducción a LaTex** [descargar](https://github.com/marcoteran/machinelearning/raw/master/homeworks/artificialintelligence_introtolatex.pdf) <sub>(**Deadline:** 17/08/2021)</sub>
+* Taller: **Introducción a LaTex** [descargar](https://github.com/marcoteran/artificialintelligence/raw/master/homeworks/artificialintelligence_introtolatex.pdf) <sub>(**Deadline:** 17/08/2021)</sub>
 
 ## Proyecto de machine learning
 
-Ejecutar un proyecto de machine learning de forma efectiva usando la metodología y las herramientas presentadas en el curso [Descargar](https://github.com/marcoteran/machinelearning/raw/master/homeworks/artificialintelligence_courseproject_2021II.pdf).
+Ejecutar un proyecto de machine learning de forma efectiva usando la metodología y las herramientas presentadas en el curso [Descargar](https://github.com/marcoteran/artificialintelligence/raw/master/homeworks/artificialintelligence_courseproject_2021II.pdf).
 <!--* Primera entrega <sub>(**Deadline:** 16/03/2021->**23/03/2021** (Extended))</sub>
 * Primera y segunda entrega <sub>(**Deadline:** 08/04/2021** (Extended))</sub>-->
 
@@ -35,20 +39,20 @@ Ejecutar un proyecto de machine learning de forma efectiva usando la metodologí
 ### Certificados Kaggle
 Entrega de certificados [Kaggle](https://www.kaggle.com/learn/)
 1. **Primer corte**
-	* Python
-	* Pandas
-	* Data visualization
+	* <sub>Python</sub>
+	* <sub>Pandas</sub>
+	* <sub>Data visualization</sub>
 2. **Segundo corte**
-	* Intro to Machine Leraning
-	* Feature Engineering
-	* Data cleaning
+	* <sub>Intro to Machine Leraning</sub>
+	* <sub>Feature Engineering</sub>
+	* <sub>Data cleaning</sub>
 3. **Tercer corte**
-	* Intermediate Machine Leraning
-	* Intro to Deep Learning
-	* *Opcional*
-		* Computer Vision
-		* Natural Language Processing
-		* Intro to Game AI and Reinforment Learning
+	* <sub>Intermediate Machine Leraning</sub>
+	* <sub>Intro to Deep Learning</sub>
+	* <sub>*Opcional*
+		* <sub>Computer Vision</sub>
+		* <sub>Natural Language Processing</sub>
+		* <sub>Intro to Game AI and Reinforment Learning</sub>
 
 ## Material adicional
 

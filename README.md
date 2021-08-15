@@ -39,20 +39,20 @@ Ejecutar un proyecto de machine learning de forma efectiva usando la metodologí
 ### Certificados Kaggle
 Entrega de certificados [Kaggle](https://www.kaggle.com/learn/)
 1. **Primer corte**
-	* <sub>Python</sub>
-	* <sub>Pandas</sub>
-	* <sub>Data visualization</sub>
+	* Python
+	* Pandas
+	* Data visualization
 2. **Segundo corte**
-	* <sub>Intro to Machine Leraning</sub>
-	* <sub>Feature Engineering</sub>
-	* <sub>Data cleaning</sub>
+	* Intro to Machine Leraning
+	* Feature Engineering
+	* Data cleaning
 3. **Tercer corte**
-	* <sub>Intermediate Machine Leraning</sub>
-	* <sub>Intro to Deep Learning</sub>
-	* <sub>*Opcional*
-		* <sub>Computer Vision</sub>
-		* <sub>Natural Language Processing</sub>
-		* <sub>Intro to Game AI and Reinforment Learning</sub>
+	* Intermediate Machine Leraning
+	* Intro to Deep Learning
+	* *Opcional*
+		* Computer Vision
+		* Natural Language Processing
+		* Intro to Game AI and Reinforment Learning
 
 ## Material adicional
 

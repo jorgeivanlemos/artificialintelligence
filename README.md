@@ -16,19 +16,19 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 ## Contenido
 
 1. **Introducción a la *Inteligencia artificial***
-	* Descargar presentación [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/01_artificialintelligence_introduction.pdf)
+	* Descargar presentación [PDF](https://github.com/marcoteran/artificialintelligence/raw/master/lectures/01_artificialintelligence_introduction.pdf)
 		* **video** [The Wonderful and Terrifying Implications of Computers That Can Learn](https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn), Jeremy Howard, TED
 		* **[Russell10]** Chap 1 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter01.pdf)
 
 2. **Introducción a Python**
-	* **Fundamentos de Python** [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/02_artificialintelligence_pythoncrashcourse.pdf)
+	* **Fundamentos de Python** [PDF](https://github.com/marcoteran/artificialintelligence/raw/master/lectures/02_artificialintelligence_pythoncrashcourse.pdf)
 		* IPython Notebooks:
-			- Introducción a Jupyter [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/01_artificialintelligence_jupyterintroduction.ipynb)
-			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/01_artificialintelligence_jupyterintroduction.ipynb)
-			- Notebook de ejemplo [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/02_artificialintelligence_notebookexample.ipynb)
-			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/02_artificialintelligence_notebookexample.ipynb)
-			- Curso rápido de Python [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/03_artificialintelligence_pythoncrashcourse.ipynb)
-			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/03_artificialintelligence_pythoncrashcourse.ipynb)
+			- Introducción a Jupyter [descargar](https://github.com/marcoteran/artificialintelligence/blob/master/notebooks/00_introtopython/01_artificialintelligence_jupyterintroduction.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/artificialintelligence/blob/master/notebooks/00_introtopython/01_artificialintelligence_jupyterintroduction.ipynb)
+			- Notebook de ejemplo [descargar](https://github.com/marcoteran/artificialintelligence/blob/master/notebooks/00_introtopython/02_artificialintelligence_notebookexample.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/artificialintelligence/blob/master/notebooks/00_introtopython/02_artificialintelligence_notebookexample.ipynb)
+			- Curso rápido de Python [descargar](https://github.com/marcoteran/artificialintelligence/blob/master/notebooks/00_introtopython/03_artificialintelligence_pythoncrashcourse.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/artificialintelligence/blob/master/notebooks/00_introtopython/03_artificialintelligence_pythoncrashcourse.ipynb)
 
 ## Talleres y tareas
 
@@ -61,7 +61,7 @@ Entrega de certificados [Kaggle](https://www.kaggle.com/learn/)
 
 ## Material adicional
 
-* [Cómo instalar el entorno de desarrollo Python Anaconda](https://github.com/marcoteran/machinelearning/raw/master/aditionalmaterial/documentation/instalarPython_Anaconda.pdf)
+* [Cómo instalar el entorno de desarrollo Python Anaconda](https://github.com/marcoteran/artificialintelligence/raw/master/aditionalmaterial/documentation/instalarPython_Anaconda.pdf)
 	* [Anaconda installation documentation](https://docs.anaconda.com/anaconda/install/windows/)
 	* [How to Setup Your Python Environment for Machine Learning with Anaconda](https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/)
 
@@ -70,9 +70,9 @@ Entrega de certificados [Kaggle](https://www.kaggle.com/learn/)
 
 <p float="left">
 
-[<img src="/_assets/pics/DudaPatternclassification.jpg" width="100" alt="Richard O. Duda - Pattern classification" title="Richard O. Duda - Pattern classification" hspace="20">](https://github.com/marcoteran/deeplearningmodule/raw/main/aditionalmaterial/books/Richard%20O.%20Duda%20-%20Pattern%20classification.pdf)
-[<img src="/_assets/pics/RussellArtificialIntelligence.jpg" width="100" alt="Stuart Russell - Artificial Intelligence_ A Modern Approach" title="Stuart Russell - Artificial Intelligence_ A Modern Approach" hspace="20">](https://github.com/marcoteran/machinelearning/raw/master/aditionalmaterial/books/Stuart%20Russell%20-%20Artificial%20Intelligence%20A%20Modern%20Approach.pdf)
-[<img src="/_assets/pics/BishopPattern Recognition.jpg" width="100" alt="Christopher M. Bishop - Pattern Recognition and Machine Learning" title="Christopher M. Bishop - Pattern Recognition and Machine Learning" hspace="20">](https://github.com/marcoteran/deeplearningmodule/raw/main/aditionalmaterial/books/Christopher%20M.%20Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
-[<img src="/_assets/pics/IanGoodfellowDeepLearning.jpg" width="100" alt="Ian Goodfellow - Deep Learning" title="Ian Goodfellow - Deep Learning" hspace="20">](https://github.com/marcoteran/deeplearningmodule/raw/main/aditionalmaterial/books/Ian%20Goodfellow%20-%20Deep%20Learning.pdf)
-[<img src="/_assets/pics/MurphyMachine Learning.jpg" width="100" alt="Kevin P. Murphy - Machine Learning_ A Probabilistic Perspective" title="Kevin P. Murphy - Machine Learning_ A Probabilistic Perspective" hspace="20">](https://github.com/marcoteran/deeplearningmodule/raw/main/aditionalmaterial/books/Kevin%20P.%20Murphy%20-%20Machine%20Learning_%20A%20Probabilistic%20Perspective.pdf)
+[<img src="/_assets/pics/DudaPatternclassification.jpg" width="100" alt="Richard O. Duda - Pattern classification" title="Richard O. Duda - Pattern classification" hspace="20">](https://github.com/marcoteran/artificialintelligence/raw/main/aditionalmaterial/books/Richard%20O.%20Duda%20-%20Pattern%20classification.pdf)
+[<img src="/_assets/pics/RussellArtificialIntelligence.jpg" width="100" alt="Stuart Russell - Artificial Intelligence_ A Modern Approach" title="Stuart Russell - Artificial Intelligence_ A Modern Approach" hspace="20">](https://github.com/marcoteran/artificialintelligence/raw/master/aditionalmaterial/books/Stuart%20Russell%20-%20Artificial%20Intelligence%20A%20Modern%20Approach.pdf)
+[<img src="/_assets/pics/BishopPattern Recognition.jpg" width="100" alt="Christopher M. Bishop - Pattern Recognition and Machine Learning" title="Christopher M. Bishop - Pattern Recognition and Machine Learning" hspace="20">](https://github.com/marcoteran/artificialintelligence/raw/main/aditionalmaterial/books/Christopher%20M.%20Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
+[<img src="/_assets/pics/IanGoodfellowDeepLearning.jpg" width="100" alt="Ian Goodfellow - Deep Learning" title="Ian Goodfellow - Deep Learning" hspace="20">](https://github.com/marcoteran/artificialintelligence/raw/main/aditionalmaterial/books/Ian%20Goodfellow%20-%20Deep%20Learning.pdf)
+[<img src="/_assets/pics/MurphyMachine Learning.jpg" width="100" alt="Kevin P. Murphy - Machine Learning_ A Probabilistic Perspective" title="Kevin P. Murphy - Machine Learning_ A Probabilistic Perspective" hspace="20">](https://github.com/marcoteran/artificialintelligence/raw/main/aditionalmaterial/books/Kevin%20P.%20Murphy%20-%20Machine%20Learning_%20A%20Probabilistic%20Perspective.pdf)
 </p>

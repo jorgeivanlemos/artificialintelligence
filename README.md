@@ -20,10 +20,15 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 		* **video** [The Wonderful and Terrifying Implications of Computers That Can Learn](https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn), Jeremy Howard, TED
 		* **[Russell10]** Chap 1 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter01.pdf)
 
-2. **Agentes inteligentes**
-	* Descargar presentación [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/02_artificialintelligence_intelligentagents.pdf)
-		* **[Russell10]** Chap 2 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter02.pdf)
-		* **[Coloma20]** Inteligencia artificial, sistemas inteligentes, agentes inteligentes [(PDF)](https://github.com/marcoteran/machinelearning/raw/master/aditionalmaterial/documentation/InteligenciaArtificialSistemasInteligentesAgentes.pdf)
+2. **Introducción a Python**
+	* **Fundamentos de Python** [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/02_artificialintelligence_pythoncrashcourse.pdf)
+		* IPython Notebooks:
+			- Introducción a Jupyter [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/01_artificialintelligence_jupyterintroduction.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/01_artificialintelligence_jupyterintroduction.ipynb)
+			- Notebook de ejemplo [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/02_artificialintelligence_notebookexample.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/02_artificialintelligence_notebookexample.ipynb)
+			- Curso rápido de Python [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/03_artificialintelligence_pythoncrashcourse.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/03_artificialintelligence_pythoncrashcourse.ipynb)
 
 ## Talleres y tareas
 

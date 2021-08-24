@@ -25,7 +25,7 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 		* IPython Notebooks:
 			- Notebook Curso corto de Python [descargar](https://github.com/marcoteran/artificialintelligence/blob/master/notebooks/00_introtopython/01_artificialintelligence_pythoncrashcourse.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/artificialintelligence/blob/master/notebooks/00_introtopython/01_artificialintelligence_pythoncrashcourse.ipynb)
-				* Python Homework [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/05_artificialintelligence_pythoncrashcoursehomework.ipynb)
+				* Python Homework [descargar](https://github.com/marcoteran/artificialintelligence/blob/master/notebooks/00_introtopython/02_artificialintelligence_pythoncrashcoursehomework.ipynb)
 				[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/artificialintelligence/blob/master/notebooks/00_introtopython/02_artificialintelligence_pythoncrashcoursehomework.ipynb)
 				<sub>(**Deadline:** 31/08/2021)</sub>
 
